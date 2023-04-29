@@ -1,4 +1,4 @@
-# Remove Nth Node From The End Of The 
+# Remove Nth Node From The End Of The List
 
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
