@@ -18,3 +18,23 @@ Java solution of problems from [LeetCode](https://leetcode.com/).
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](./Array/Subsets/Subsets.java)|Medium|
 
 ### [Binary Tree](./BinaryTree/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./BinaryTree/Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorder.java)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](./BinaryTree/Kth%20Smallest%20Element%20in%20Binary%20Tree/Kth_Smallest.java)|Medium|
+|94|[Unique Binary Search Tree-2 ](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Java](./BinaryTree/Unique_BST_2/Unique_BST.java)|Easy|
+
+### [Linked List](./LinkedList/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./LinkedList/Add%20Two%20Numbers/AddTwoNumbers.java)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./LinkedList/Merge%20K%20sorted%20Lists/Merge_K_Sorted.java)|Hard|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./LinkedList/Merge%20Two%20Sorted%20Lists/MergeTwoSortedList.java)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./LinkedList/Remove%20Nth%20Node%20From%20The%20End%20Of%20The%20List/RemoveNthNode.java)|Medium|
+
+### [Stack](./Stack/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[Java](./Stack/Valid%20Parenthesis/ValidParenthesis.java)|Easy|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Stack/Longest%20Valid%20Parentheses/LongestValidParentheses.java)|Hard|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Java](./Stack/Basic%20Calculator/BasicCalculator.java)|Hard|
