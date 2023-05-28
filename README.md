@@ -16,6 +16,10 @@ Java solution of problems from [LeetCode](https://leetcode.com/).
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Array/Search%20Insert%20Position/SearchInsertPosition.java)|Easy|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./Array/Sort%20Colors/SortColors.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](./Array/Subsets/Subsets.java)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./Array/Jump%20Game/JumpGame.java)|Medium|
+|55|[Sort By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](./Array/Sort%20By%20Parity/SortByParity.java)|Medium|
+
+
 
 ### [Binary Tree](./BinaryTree/)
 | # | Title | Solution | Difficulty |
